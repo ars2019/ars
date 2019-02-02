@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/jfreechart-1.0.1_rewritten.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/clinit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/jcommon-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="jpf-core" />
+    <orderEntry type="library" name="junit-4.10" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/realLib/ant-launcher.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/ant.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/asm-all-5.0.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/commons-collections-2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/commons-dbcp-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/commons-pool-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/commons-pool-1.4-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/commons-pool-1.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/coring-1.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/derby.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/derbyclient.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/groovy-all-1.7.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/javaee-api-7.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/javaee.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/javassist-3.18.1-GA.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/junit3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/junit4.11.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/log4j-1.2.13.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/log4j-1.2.14.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/log4j-1.2.15.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/lucene-core-2.4.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/lucene-core-2.9.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/mockito-all-1.9.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/powermock-mockito-1.5.3-full.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/jacontebe-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/../lib/realLib/jacontebe-1.0.jar!/doc" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../lib/realLib/commons-pool-1.5-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/mockito-all-1.9.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/realLib/powermock-mockito-1.5.3-full.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/addlib/javax.jms.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/addlib/jdmkrt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/addlib/mail.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/poi-3.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="build" level="project" />
+    <orderEntry type="module" module-name="jpf-core" />
+    <orderEntry type="module" module-name="jpf-core" />
+  </component>
+</module>

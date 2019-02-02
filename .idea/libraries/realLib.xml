@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="realLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/mockito-all-1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/commons-pool-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/ant-launcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/derbyclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/jacontebe-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/commons-pool-1.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/groovy-all-1.7.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/lucene-core-2.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/commons-pool-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/log4j-1.2.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/javaee-api-7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/commons-collections-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/coring-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/commons-dbcp-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/lucene-core-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/log4j-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/junit3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/powermock-mockito-1.5.3-full.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/commons-pool-1.4-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/javaee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/junit4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/realLib/asm-all-5.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

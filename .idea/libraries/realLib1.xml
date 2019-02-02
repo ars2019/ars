@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="realLib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/realLib/logging-log4j-1.2.14.zip!/" />
+      <root url="jar://$PROJECT_DIR$/realLib/lucene-2.4.0-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/realLib/commons-pool-1.4-src-SNAPSHOT.zip!/" />
+      <root url="jar://$PROJECT_DIR$/realLib/commons-dbcp-1.2-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/realLib/logging-log4j-1.2.13.zip!/" />
+      <root url="jar://$PROJECT_DIR$/realLib/db-derby-10.5.1.1-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/realLib/apache-log4j-1.2.15.zip!/" />
+      <root url="jar://$PROJECT_DIR$/realLib/groovy-src-1.7.9.zip!/" />
+      <root url="jar://$PROJECT_DIR$/realLib/lucene-2.9.3-src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

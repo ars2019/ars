@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="addlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/addlib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/addlib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/heu_search/lib/addlib/jdmkrt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
